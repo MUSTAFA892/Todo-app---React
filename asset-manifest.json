@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MUSTAFA892/Todo-app---React/static/css/main.bf552df8.css",
+    "main.js": "/MUSTAFA892/Todo-app---React/static/js/main.376f9b89.js",
+    "index.html": "/MUSTAFA892/Todo-app---React/index.html",
+    "main.bf552df8.css.map": "/MUSTAFA892/Todo-app---React/static/css/main.bf552df8.css.map",
+    "main.376f9b89.js.map": "/MUSTAFA892/Todo-app---React/static/js/main.376f9b89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf552df8.css",
+    "static/js/main.376f9b89.js"
+  ]
+}
