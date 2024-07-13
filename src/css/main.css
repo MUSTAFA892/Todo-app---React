@@ -12,17 +12,14 @@ html {
 }
 
 body {
-  background: linear-gradient(
-    190deg,
-    rgb(205, 123, 142) 0%,
-    rgb(106, 90, 171) 100%
-  );
+  background: url('../image/zoro.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  color: #222;
   overflow: hidden;
 }
+
+
 
 .App {
   margin-top: 3rem;
