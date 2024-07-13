@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/MUSTAFA892/Todo-app---React/static/css/main.bf552df8.css",
-    "main.js": "/MUSTAFA892/Todo-app---React/static/js/main.376f9b89.js",
+    "main.css": "/MUSTAFA892/Todo-app---React/static/css/main.04c9aedc.css",
+    "main.js": "/MUSTAFA892/Todo-app---React/static/js/main.aa7904a7.js",
+    "static/media/zoro.png": "/MUSTAFA892/Todo-app---React/static/media/zoro.d078f5d6054d3fadba2b.png",
     "index.html": "/MUSTAFA892/Todo-app---React/index.html",
-    "main.bf552df8.css.map": "/MUSTAFA892/Todo-app---React/static/css/main.bf552df8.css.map",
-    "main.376f9b89.js.map": "/MUSTAFA892/Todo-app---React/static/js/main.376f9b89.js.map"
+    "main.04c9aedc.css.map": "/MUSTAFA892/Todo-app---React/static/css/main.04c9aedc.css.map",
+    "main.aa7904a7.js.map": "/MUSTAFA892/Todo-app---React/static/js/main.aa7904a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf552df8.css",
-    "static/js/main.376f9b89.js"
+    "static/css/main.04c9aedc.css",
+    "static/js/main.aa7904a7.js"
   ]
 }
