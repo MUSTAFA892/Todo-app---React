@@ -12,17 +12,13 @@ html {
 }
 
 body {
-  background: linear-gradient(
-    190deg,
-    rgb(205, 123, 142) 0%,
-    rgb(106, 90, 171) 100%
-  );
-  background-repeat: no-repeat;
+  background: url('C:\PROJECTS\Todo app - React\React-Redux-Todo-App-main\src\image\zoro.png') no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  color: #222;
   overflow: hidden;
 }
+
+
 
 .App {
   margin-top: 3rem;
